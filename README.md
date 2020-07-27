@@ -1,2 +1,2 @@
 # result-display-app
-Users are able to insert marks on subjects and calculate the result and display in table
+Users will be able to insert marks of different subjects, calculate the result and display in table
